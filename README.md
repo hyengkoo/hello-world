@@ -45,8 +45,6 @@ Close this break using `<br/>`.
 
 Note, one need not close empty elements in HTML5. However, for stricter validations, or if you want your document to be readable by xml parsers, it is better practice to close empty elements properly.
 
-<hr>
-
 <h3>Using p title</h3>
 
 `<p title ... >` is used to pop up text when you hover your mouse over some paragraph element in your web page. It should be used in place of the normal `<p>` with the code>: 
